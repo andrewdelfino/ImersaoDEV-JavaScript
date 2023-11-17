@@ -8,6 +8,6 @@ Este repositório contém meus projetos desenvolvidos durante a Imersão DEV 7, 
 | Aula 2     | [Jogo de Advinhação](https://github.com/andrewdelfino/ImersaoDEV-JavaScript/tree/main/jogo-de-adivinhacao) |
 | Aula 3     | [Catalogo de Séries](https://github.com/andrewdelfino/ImersaoDEV-JavaScript/tree/main/catalogo-de-series)  |
 | Aula 4     | [Lista de Séries Favoritas](https://github.com/andrewdelfino/ImersaoDEV-JavaScript/tree/main/lista-series-favoritas)  |
-| Aula 5     | Em breve...  |
+| Aula 5     | [Tabela de Classificação]()  |
 
 Sinta-se à vontade para explorar, contribuir ou fornecer feedback!
